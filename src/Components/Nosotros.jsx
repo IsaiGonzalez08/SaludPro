@@ -21,7 +21,7 @@ export const Nosotros = () => {
                 </p>
                 <div className="w-56 h-10 mt-10 flex flex-row items-center relative cursor-pointer">
                         <div className="w-10 h-10 rounded-full overflow-hidden ml-4">
-                            <div className="absolute bg-[#ECECEC] w-10 h-10 rounded-full hover:w-52 transition-width duration-300 ml-5"></div>
+                            <div className="absolute bg-[#ECECEC] w-10 h-10 rounded-full hover:w-44 transition-width duration-300 ml-5"></div>
                         </div>
                         <h2 className='text-[#0D193E] relative z-10 pt-1 font-semibold'>Generar cita</h2>
                         <img className='pl-2 relative z-11 pt-1' src={Flecha} alt="Flecha" />

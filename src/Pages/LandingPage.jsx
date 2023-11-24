@@ -1,4 +1,5 @@
 import { Doctores } from "../Components/Doctores"
+import { Footer } from "../Components/Footer"
 import { Header } from "../Components/Header"
 import { Inicio } from "../Components/Inicio"
 import { Nosotros } from "../Components/Nosotros"
@@ -12,6 +13,7 @@ export const LandingPage = () => {
             <Servicio></Servicio>
             <Nosotros></Nosotros>
             <Doctores></Doctores>
+            <Footer></Footer>
         </div>
     )
 }
